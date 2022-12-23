@@ -10,7 +10,7 @@
 
 # 📝 Brief 
 
-<img align="right" alt="Coder GIF" height=300 width=350 src="img\aisfcp2.jpg" />
+<img align="right" alt="Coder GIF" height=300 width=350 src="https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking/blob/master/img/aisfcp2.jpg" />
 The development of this system will use techniques of image processing that will be implemented in each phase of the methodology. This system gives information about the number of available parking space. It will provide benefit to all the drivers when they enter the parking lot. The system uses image processing, since the whole area in the parking lot can be observed with relatively few cameras and the Image of a parking lot is taken by a surveillance camera set at some height in the parking lot.  
 
 
