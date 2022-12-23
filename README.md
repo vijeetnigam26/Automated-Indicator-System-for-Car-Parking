@@ -1,4 +1,4 @@
-<h1 align="center"> Automated Indicator System for 🚘 Car Parking</h1>
+<h2 align="center"> Automated Indicator System for 🚘 Car Parking</h2>
 
 <p align="center">
   <img src="https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking/blob/master/img/title.png" height=214 width=291 />
@@ -8,10 +8,14 @@
 
 •	Designed it with Digital Signal Processing & Image processing Using MATLAB.
 
-# 📝 Brief 
+<h2 align="left"> 📝 Brief </h2>
+
+
+The development of this system will use techniques of image processing that will be implemented in each phase of the methodology. This system gives information about the number of available parking space. It will provide benefit to all the drivers when they enter the parking lot. 
 
 <img align="right" alt="Coder GIF" height=300 width=350 src="https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking/blob/master/img/aisfcp2.jpg" />
-The development of this system will use techniques of image processing that will be implemented in each phase of the methodology. This system gives information about the number of available parking space. It will provide benefit to all the drivers when they enter the parking lot. The system uses image processing, since the whole area in the parking lot can be observed with relatively few cameras and the Image of a parking lot is taken by a surveillance camera set at some height in the parking lot.  
+
+The system uses image processing, since the whole area in the parking lot can be observed with relatively few cameras and the Image of a parking lot is taken by a surveillance camera set at some height in the parking lot.  
 
 
 
@@ -19,10 +23,10 @@ Videos will be acquired from the top view of the parking arena with the help of 
 complexity.
 <br><br>
 👉🏻 *Lets assume, there is Commercial Complex which is having a 3 floor Basement Car Parking Space with a Capacity of 432 Cars – 144 Each Floor.* 
- <br>
+ <br><br>
 
+<h2 align="left"> 📜 Algorithm </h2>
 
-# 📜 Algorithm 
 The main steps of the proposed algorithm for parking space detection are:
 
 1️⃣ The system will get live stream video of the parking lot from camera. Images are captured when a car enters the parking lot.
